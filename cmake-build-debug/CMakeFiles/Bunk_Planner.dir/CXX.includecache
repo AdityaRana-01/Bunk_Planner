@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Aditya Rana/CLionProjects/Bunk Planner/Subject.cpp
+Subject.h
+C:/Users/Aditya Rana/CLionProjects/Bunk Planner/Subject.h
+
+C:/Users/Aditya Rana/CLionProjects/Bunk Planner/Subject.h
+iostream
+-
+
+C:/Users/Aditya Rana/CLionProjects/Bunk Planner/main.cpp
+iostream
+-
+Subject.h
+C:/Users/Aditya Rana/CLionProjects/Bunk Planner/Subject.h
+

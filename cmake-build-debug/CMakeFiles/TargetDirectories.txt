@@ -1,0 +1,3 @@
+C:/Users/Aditya Rana/CLionProjects/Bunk Planner/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Aditya Rana/CLionProjects/Bunk Planner/cmake-build-debug/CMakeFiles/Bunk_Planner.dir
+C:/Users/Aditya Rana/CLionProjects/Bunk Planner/cmake-build-debug/CMakeFiles/rebuild_cache.dir
